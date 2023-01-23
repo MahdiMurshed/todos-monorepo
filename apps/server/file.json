@@ -1,0 +1,252 @@
+[
+  {
+    "date": "Sun Aug 09 2020",
+    "title": "Exhaustive matching in TypeScript",
+    "link": "https://tkdodo.eu/blog/exhaustive-matching-in-type-script"
+  },
+  {
+    "date": "Sat Aug 29 2020",
+    "title": "Don't over useState",
+    "link": "https://tkdodo.eu/blog/dont-over-use-state"
+  },
+  {
+    "date": "Wed Sep 02 2020",
+    "title": "Solving conflicts in package-lock.json",
+    "link": "https://tkdodo.eu/blog/solving-conflicts-in-package-lock-json"
+  },
+  {
+    "date": "Fri Sep 04 2020",
+    "title": "Calling JavaScript from TypeScript",
+    "link": "https://tkdodo.eu/blog/calling-java-script-from-type-script"
+  },
+  {
+    "date": "Wed Sep 09 2020",
+    "title": "Why I don't like reduce",
+    "link": "https://tkdodo.eu/blog/why-i-dont-like-reduce"
+  },
+  {
+    "date": "Sun Sep 20 2020",
+    "title": "Pedantic index signatures in TypeScript 4.1",
+    "link": "https://tkdodo.eu/blog/pedantic-index-signatures-in-type-script-4-1"
+  },
+  {
+    "date": "Thu Oct 08 2020",
+    "title": "The power of const assertions",
+    "link": "https://tkdodo.eu/blog/the-power-of-const-assertions"
+  },
+  {
+    "date": "Sun Oct 25 2020",
+    "title": "Putting props to useState",
+    "link": "https://tkdodo.eu/blog/putting-props-to-use-state"
+  },
+  {
+    "date": "Sun Nov 01 2020",
+    "title": "Avoiding legacy systems",
+    "link": "https://tkdodo.eu/blog/avoiding-legacy-systems"
+  },
+  {
+    "date": "Mon Nov 16 2020",
+    "title": "Practical React Query",
+    "link": "https://tkdodo.eu/blog/practical-react-query"
+  },
+  {
+    "date": "Tue Dec 08 2020",
+    "title": "On naming things",
+    "link": "https://tkdodo.eu/blog/on-naming-things"
+  },
+  {
+    "date": "Mon Jan 04 2021",
+    "title": "Flow to TypeScript migration journey",
+    "link": "https://tkdodo.eu/blog/flow-to-type-script-migration-journey"
+  },
+  {
+    "date": "Sat Jan 23 2021",
+    "title": "Simplifying useEffect",
+    "link": "https://tkdodo.eu/blog/simplifying-use-effect"
+  },
+  {
+    "date": "Sat Feb 13 2021",
+    "title": "Things to know about useState",
+    "link": "https://tkdodo.eu/blog/things-to-know-about-use-state"
+  },
+  {
+    "date": "Sun Feb 28 2021",
+    "title": "No love for boolean parameters",
+    "link": "https://tkdodo.eu/blog/no-love-for-boolean-parameters"
+  },
+  {
+    "date": "Wed Mar 10 2021",
+    "title": "React Query Data Transformations",
+    "link": "https://tkdodo.eu/blog/react-query-data-transformations"
+  },
+  {
+    "date": "Fri Mar 12 2021",
+    "title": "useState for one-time initializations",
+    "link": "https://tkdodo.eu/blog/use-state-for-one-time-initializations"
+  },
+  {
+    "date": "Sat Mar 20 2021",
+    "title": "React Query Render Optimizations",
+    "link": "https://tkdodo.eu/blog/react-query-render-optimizations"
+  },
+  {
+    "date": "Sat Mar 27 2021",
+    "title": "Status Checks in React Query",
+    "link": "https://tkdodo.eu/blog/status-checks-in-react-query"
+  },
+  {
+    "date": "Sun Apr 04 2021",
+    "title": "Testing React Query",
+    "link": "https://tkdodo.eu/blog/testing-react-query"
+  },
+  {
+    "date": "Sat Apr 24 2021",
+    "title": "How can I ... ?",
+    "link": "https://tkdodo.eu/blog/how-can-i"
+  },
+  {
+    "date": "Sun May 16 2021",
+    "title": "React Query and TypeScript",
+    "link": "https://tkdodo.eu/blog/react-query-and-type-script"
+  },
+  {
+    "date": "Sun Jun 06 2021",
+    "title": "Using WebSockets with React Query",
+    "link": "https://tkdodo.eu/blog/using-web-sockets-with-react-query"
+  },
+  {
+    "date": "Sun Jun 13 2021",
+    "title": "Effective React Query Keys",
+    "link": "https://tkdodo.eu/blog/effective-react-query-keys"
+  },
+  {
+    "date": "Fri Jul 23 2021",
+    "title": "About async functions",
+    "link": "https://tkdodo.eu/blog/about-async-functions"
+  },
+  {
+    "date": "Mon Aug 09 2021",
+    "title": "Placeholder and Initial Data in React Query",
+    "link": "https://tkdodo.eu/blog/placeholder-and-initial-data-in-react-query"
+  },
+  {
+    "date": "Fri Aug 20 2021",
+    "title": "React Query as a State Manager",
+    "link": "https://tkdodo.eu/blog/react-query-as-a-state-manager"
+  },
+  {
+    "date": "Fri Sep 10 2021",
+    "title": "React Query Error Handling",
+    "link": "https://tkdodo.eu/blog/react-query-error-handling"
+  },
+  {
+    "date": "Sun Sep 26 2021",
+    "title": "useState vs useReducer",
+    "link": "https://tkdodo.eu/blog/use-state-vs-use-reducer"
+  },
+  {
+    "date": "Sat Oct 09 2021",
+    "title": "Mastering Mutations in React Query",
+    "link": "https://tkdodo.eu/blog/mastering-mutations-in-react-query"
+  },
+  {
+    "date": "Tue Oct 26 2021",
+    "title": "Leveraging the Query Function Context",
+    "link": "https://tkdodo.eu/blog/leveraging-the-query-function-context"
+  },
+  {
+    "date": "Sat Dec 04 2021",
+    "title": "Beware the leaking any",
+    "link": "https://tkdodo.eu/blog/beware-the-leaking-any"
+  },
+  {
+    "date": "Tue Dec 21 2021",
+    "title": "2021 in Review",
+    "link": "https://tkdodo.eu/blog/2021-in-review"
+  },
+  {
+    "date": "Sat Jan 22 2022",
+    "title": "Road to Refactoring",
+    "link": "https://tkdodo.eu/blog/road-to-refactoring"
+  },
+  {
+    "date": "Sat Jan 29 2022",
+    "title": "Always provide customer value",
+    "link": "https://tkdodo.eu/blog/always-provide-customer-value"
+  },
+  {
+    "date": "Sat Feb 05 2022",
+    "title": "Offline React Query",
+    "link": "https://tkdodo.eu/blog/offline-react-query"
+  },
+  {
+    "date": "Sat Feb 19 2022",
+    "title": "optional vs. undefined",
+    "link": "https://tkdodo.eu/blog/optional-vs-undefined"
+  },
+  {
+    "date": "Fri Mar 25 2022",
+    "title": "Use Urgency",
+    "link": "https://tkdodo.eu/blog/use-urgency"
+  },
+  {
+    "date": "Sun Apr 10 2022",
+    "title": "React Query and Forms",
+    "link": "https://tkdodo.eu/blog/react-query-and-forms"
+  },
+  {
+    "date": "Sun Apr 24 2022",
+    "title": "Hooks, Dependencies and Stale Closures",
+    "link": "https://tkdodo.eu/blog/hooks-dependencies-and-stale-closures"
+  },
+  {
+    "date": "Fri Jun 24 2022",
+    "title": "React Query FAQs",
+    "link": "https://tkdodo.eu/blog/react-query-fa-qs"
+  },
+  {
+    "date": "Sun Aug 14 2022",
+    "title": "Avoiding useEffect with callback refs",
+    "link": "https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs"
+  },
+  {
+    "date": "Sun Aug 28 2022",
+    "title": "React Query meets React Router",
+    "link": "https://tkdodo.eu/blog/react-query-meets-react-router"
+  },
+  {
+    "date": "Sat Sep 17 2022",
+    "title": "Refs, Events and Escape Hatches",
+    "link": "https://tkdodo.eu/blog/refs-events-and-escape-hatches"
+  },
+  {
+    "date": "Sat Oct 22 2022",
+    "title": "Seeding the Query Cache",
+    "link": "https://tkdodo.eu/blog/seeding-the-query-cache"
+  },
+  {
+    "date": "Sun Nov 13 2022",
+    "title": "Refactor impactfully",
+    "link": "https://tkdodo.eu/blog/refactor-impactfully"
+  },
+  {
+    "date": "Sun Nov 20 2022",
+    "title": "Working with Zustand",
+    "link": "https://tkdodo.eu/blog/working-with-zustand"
+  },
+  {
+    "date": "Sat Dec 03 2022",
+    "title": "Inside React Query",
+    "link": "https://tkdodo.eu/blog/inside-react-query"
+  },
+  {
+    "date": "Sat Dec 31 2022",
+    "title": "2022 in Review",
+    "link": "https://tkdodo.eu/blog/2022-in-review"
+  },
+  {
+    "date": "Sat Jan 07 2023",
+    "title": "Type-safe React Query",
+    "link": "https://tkdodo.eu/blog/type-safe-react-query"
+  }
+]
